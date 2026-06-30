@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 # List all VPC networks
 gcloud compute networks list
 
